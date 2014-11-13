@@ -1,3 +1,6 @@
-Hacknplay 2 html source
+Hacknplay 1/2/3 html source
 ====
-Da es Html ist kann es jeder sehe und somit ist auch das Git hier kein geheimnis
+hacknplay.org
+CCCFr event webpage
+
+(da es Html ist kann es jeder sehen und somit ist auch das Git hier kein Geheimnis)
